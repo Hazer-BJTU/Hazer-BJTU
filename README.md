@@ -1,11 +1,7 @@
-# Hazer
-
-你好，我是 Hazer。 / Hi, I'm Hazer.
-
 ## 教育经历 · Education
 
-- **本科**：北京交通大学，计算机科学与技术。  
-  **Undergraduate**: Beijing Jiaotong University, Computer Science and Technology.
+- **本科**：北京交通大学[计算机科学与技术学院](https://cs.bjtu.edu.cn/)，计算机科学与技术专业。  
+  **Undergraduate**: Computer Science and Technology, [School of Computer Science and Technology](https://cs.bjtu.edu.cn/), Beijing Jiaotong University.
 - **硕士**：南京大学智能科学与技术学院，人工智能专业。  
   **Master's**: Artificial Intelligence, [School of Intelligence Science and Technology](https://is.nju.edu.cn/is_en/), Nanjing University.
 
