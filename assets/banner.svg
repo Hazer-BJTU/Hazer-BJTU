@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Hazer — Learning by building</title>
+  <desc id="description">A dark banner with blue and green connected nodes, and the text Hazer, Learning by building, C++, Python, AI.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="960" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1726"/>
+      <stop offset="1" stop-color="#172D3E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="550" y1="40" x2="890" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#5EEAD4"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity=".035"/>
+    </pattern>
+  </defs>
+  <rect width="960" height="220" rx="18" fill="url(#background)"/>
+  <rect width="960" height="220" rx="18" fill="url(#grid)"/>
+  <rect x="42" y="43" width="4" height="134" rx="2" fill="#5EEAD4"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="68" y="102" fill="#F1F5F9" font-size="56" font-weight="700">Hazer</text>
+    <text x="70" y="140" fill="#CBD5E1" font-size="22">Learning by building.</text>
+    <text x="70" y="176" fill="#7DD3FC" font-size="15" letter-spacing="2">C++ · PYTHON · AI</text>
+  </g>
+  <g stroke="url(#accent)" stroke-width="2" stroke-linecap="round">
+    <path d="M580 110H645L690 60H785L835 110H890" opacity=".6"/>
+    <path d="M580 110H645L690 160H785L835 110" opacity=".6"/>
+    <path d="M690 60V160M785 60V160" opacity=".2"/>
+    <circle cx="580" cy="110" r="9" fill="#122538"/>
+    <circle cx="690" cy="60" r="9" fill="#122538"/>
+    <circle cx="690" cy="160" r="9" fill="#122538"/>
+    <circle cx="785" cy="60" r="9" fill="#122538"/>
+    <circle cx="785" cy="160" r="9" fill="#122538"/>
+    <circle cx="890" cy="110" r="9" fill="#122538"/>
+  </g>
+</svg>
